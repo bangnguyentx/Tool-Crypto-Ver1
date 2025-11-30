@@ -13,7 +13,7 @@ from analysis import get_market_signal
 
 # --- CONFIG & CONSTANTS ---
 # Đọc Token từ Biến Môi Trường hoặc dùng Token cứng (cho dev test)
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "8548469595:AAFYg640srzQFpKPjOVMYYf1drL-kb11e28")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "8234920227:AAHNmC3Yr2g9dd_HZad0S9oWDZ-b47bi_lo")
 SYMBOL = "BTC/USDT"
 TRADE_MODE_KEYS = ["SET_MODE_AUTO", "SET_MODE_MANUAL"]
 ACTION_STATE = 1
