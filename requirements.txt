@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+ccxt==4.2.14
+pandas==2.2.0
+pandas-ta==0.3.14b0
+flask==3.0.0
+numpy==1.26.3
+nest_asyncio==1.6.0
